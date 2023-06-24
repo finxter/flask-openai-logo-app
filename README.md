@@ -1,3 +1,7 @@
+# How I Created a ChatGPT-powered Logo Generator App Using Python Flask
+
+Full explanation: 👉 https://blog.finxter.com/how-i-created-a-chatgpt-powered-logo-generator-app-using-python-flask/
+
 A logo generator Python/Flask web app using the OpenAI capabilities.
 
 Used technologies:
